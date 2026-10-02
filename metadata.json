@@ -1,0 +1,6 @@
+{
+  "name": "Internal Lead Management CRM",
+  "description": "Centralized internal CRM for lead management, fast data entry, guided bulk imports, pipeline tracking, and follow-up management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
